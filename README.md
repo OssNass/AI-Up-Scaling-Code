@@ -1,2 +1,10 @@
 # AI-Up-Scaling-Code
-This is the repository for the AI Up scaling porject
+
+Always remember, in case of disaster:
+
+```
+git commit
+git push
+get out
+```
+Will add more as the coding progresses
